@@ -1,2 +1,23 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            background-color: aliceblue;
+            color: navy;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 24px;
+            margin: 150px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Hello, this is my website and my name is Betty!</h1>
+    <img src="https://64.media.tumblr.com/3dbd5abb43b3eb0af8a1fecb62d49ebf/tumblr_ojzkoarIZH1rpduwho1_500.gif"
+        alt="Betty Boop gif">
+</body>
+
+</html>
